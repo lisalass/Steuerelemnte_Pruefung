@@ -8,6 +8,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Button Content="Berechne" HorizontalAlignment="Left" Margin="87,341,0,0" VerticalAlignment="Top" Width="631"/>
 
     </Grid>
 </views:MvxWindow>
